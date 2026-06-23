@@ -9,6 +9,10 @@ TUN Injection Switching
 Multi-Configuration Management
 Automatically close the system proxy after logging out
 
+# simple
+<img width="620" height="710" alt="image" src="https://github.com/user-attachments/assets/0866b4cc-0199-4385-88bb-062edde3c100" />
+
+
 # Dependency
 import os
 import sys
