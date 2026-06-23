@@ -12,7 +12,7 @@ import threading
 import zipfile
 import subprocess
 import tkinter as tk
-#pyinstaller
+# pyinstaller
 python -m PyInstaller -D -w --strip --noupx `
   --exclude-module unittest `
   --exclude-module test `
